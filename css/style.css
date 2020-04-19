@@ -1,25 +1,25 @@
 @font-face {
-	src: url('../fonts/OpenSans-Regular.ttf');
+	src: url('../fonts/OpenSans/OpenSans-Regular.ttf');
 	font-family: 'OpenSans Regular', sans-serif;
 }
 
 @font-face {
-	src: url('../fonts/OpenSans-Italic.ttf');
+	src: url('../fonts/OpenSans/OpenSans-Italic.ttf');
 	font-family: 'OpenSans Italic', sans-serif;
 }
 
 @font-face {
-	src: url('../fonts/OpenSans-Bold.ttf');
+	src: url('../fonts/OpenSans/OpenSans-Bold.ttf');
 	font-family: 'OpenSans Bold', sans-serif;
 }
 
 @font-face {
-	src: url('../fonts/OpenSans-SemiBold.ttf');
+	src: url('../fonts/OpenSans/OpenSans-SemiBold.ttf');
 	font-family: 'OpenSans SemiBold', sans-serif;
 }
 
 @font-face {
-	src: url('../fonts/OpenSans-ExtraBold.ttf');
+	src: url('../fonts/OpenSans/OpenSans-ExtraBold.ttf');
 	font-family: 'OpenSans ExtraBold', sans-serif;
 }
 
@@ -127,7 +127,7 @@ h1 {
 }
 .intro_lorem {
 	max-width: 520px;
-	padding: 30px 0 70px 0;
+	padding: 30px 0 40px 0;
 }
 .contact_us {
 	font-family: 'OpenSans-Bold', sans-serif;
